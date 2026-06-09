@@ -1,0 +1,5 @@
+Revision history for Samizdat-Resources
+
+0.01
+    - Vendored third-party runtime data (countries-data-json, i18n-iso-languages,
+      Noto fonts) under lib/Samizdat/resources/shared/ so Samizdat installs offline.
